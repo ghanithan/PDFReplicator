@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PDFReplicator.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-22T02:47:46" hostname="Ghanithans-MacBook-Pro.local" time="0.382">
+  <properties/>
+  <testcase name="appHasAGreeting" classname="PDFReplicator.AppTest" time="0.382"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
