@@ -235,7 +235,7 @@ class ButtonListener implements ActionListener{
 	public void actionPerformed(ActionEvent evt) {
 			convertpdf.setEnabled(false);
 			task = new Task();
-			task.start();
+			task.start(); 
 			timer.start();
 			
 		}
@@ -430,7 +430,7 @@ class ButtonListener implements ActionListener{
     //		        System.out.println(rowCount );
                     
                     try {
-                        sleep(6);
+                        sleep(6); // putting the thread to sleep so that UI can be updated
                     }catch(InterruptedException e ) {
                         e.printStackTrace();
                     }
